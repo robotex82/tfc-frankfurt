@@ -1,6 +1,6 @@
 h1. Vereinsordnung - Datenschutz
 
-h2. § 2 Datenschutz
+h2. § 1 Datenschutz
 
 (1) Der Verein erhebt, verarbeitet und nutzt personenbezogene Daten seiner
 Mitglieder (Einzelangaben über persönliche und sachliche Verhältnisse) unter
