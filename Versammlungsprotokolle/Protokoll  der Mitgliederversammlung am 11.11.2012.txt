@@ -1,0 +1,111 @@
+h1. Mitgliederversammlung - Protokoll
+
+**Datum:** 11.11.2012 (17:30 Uhr - 20:15 Uhr)
+
+**Ort:** Frankfurt am Main, Domitianstr. 16 bei Natalie und Roberto
+
+**Versammlungsleiter:** Roberto Vásquez Angel
+
+**Protokollführer:** Natalie Jerkovic
+
+**Anwesende:**
+
+  * André Wojdyno
+  * Ellen Reimann
+  * Julian Brederlow
+  * Kim Brückner
+  * Manfred Forsbach
+  * Natalie Jerkovic
+  * Roberto Vasquez Angel
+
+
+h2. 1. Begrüßung und Feststellung der Beschlussfähigkeit
+
+Die Beschlussfähigkeit wird festgestellt.
+
+
+h2. 2. Aktuelle Lage im Labor
+
+Roberto erläutert die aktuelle Lage im Labor. Das Aufstellen von 2 Tischen ist nicht mehr möglich.
+
+
+h2. 3. Beratung und Beschlussfassung über die temporäre Änderung des Trainingsorts
+
+Es wird einstimmig beschlossen den Trainingsort in die Domitianstr. 16 zu verlegen und den Tisch dort aufzubauen.
+
+
+h2. 4. Aktueller Stand der Vorbereitungen für die Eintragung des Vereins
+
+Roberto erläutert den aktuellen Stand der Vorbereitungen für die Eintragung des Vereins. Die nächsten Schritte sind:
+
+  * Vorstellung der Satzung beim Finanzamt
+  * Notarielle Beglaubigung der Vorstandsunterschriften
+  * Antrag zur Eintragung beim Amtsgericht
+  * Antrag zur Steuererleichterung beim Finanzamt
+
+
+h2. 5. Beratung und Beschlussfassung über die Erstellung einer Arbeitsgruppe "e.V."
+
+Es wird einstimmig gegen die Erstellung einer Arbeitsgruppe "e.V." gestimmt, da der Bedarf der Formalisierung nicht als gegeben angesehen wird.
+
+
+h2. 6. Änderung der Satzung um den Anforderungen eines e.V. zu genügen.
+
+Es wird über die aktualisierte Satzung und über folgende Vereinsordnungen beraten:
+
+  * Aufgaben des Vorsstands
+  * Datenschutz
+  * Gäste
+  * Mitgliedsbeiträge
+  * Vereinsjugend
+  * Vorstand
+
+
+h2. 7. Aktueller Stand der Raumsuche
+
+Roberto und Natalie erläutern die aktuelle Bemühungen einen Raum zu finden. Leider konnte bisher trotz laufender Anfragen kein Raum gefunden werden. Anfragen bei öffentlichen Stellen setzen einen eingetragenen Verein voraus. Ellen wird eine Anfrage im Mainkurbahnhof stellen.
+
+
+h2. 8. Beratung und Beschlussfassung über die Erstellung einer Arbeitsgruppe für die Raumsuche
+
+Es wird einstimmig gegen die Erstellung einer Arbeitsgruppe für die Raumsuche gestimmt, da der Bedarf der Formalisierung nicht als gegeben angesehen wird. Roberto hat eine E-Mail Adresse (raumsuche@tfc-frankfurt.de) eingerichtet, die er Mitgliedern (bisher Natalie und Pia) die sich an der Raumsuche beteiligen, zur Verfügung stellt.
+
+
+h2. 9. Beratung und Beschlussfassung über die aktualisierte Satzung
+
+Die aktualisierte Satzung wird einstimmig verabschiedet. Die Vereinsordnungen:
+
+  * Aufgaben des Vorsstands
+  * Datenschutz
+  * Gäste
+  * Mitgliedsbeiträge
+  * Vereinsjugend
+  * Vorstand
+
+werden ebenfalls einstimmig verabschiedet. Die Satzung und Vereinsordnungen werden dem Protokoll als Anlage beigefügt.
+
+
+h2. 10. Ziele 2013
+
+Folgende Ziele werden angeregt:
+
+  * Aufstellung einer zweiten Mannschaft
+  * Ausweitung der Öffentlichkeitsarbeit
+  * Überarbeitung der Homepageinhalte
+  * Finden von Sponsoren
+
+h2. 11. Sonstiges
+
+  - 
+
+
+h2. Anlagen
+
+"1. TFC Frankfurt - Satzung (2012-11-11)":https://github.com/robotex82/tfc-frankfurt/blob/master/1.%20TFC%20Frankfurt%20-%20Satzung%20(2012-11-11).docx?raw=true
+
+"1. TFC Frankfurt - Vereinsordnung - Aufgaben des Vorstands":https://github.com/robotex82/tfc-frankfurt/blob/master/Vereinsordnungen/1.%20TFC%20Frankfurt%20-%20Vereinsordnung%20-%20Aufgaben%20des%20Vorstands.docx?raw=true
+"1. TFC Frankfurt - Vereinsordnung - Datenschutz":https://github.com/robotex82/tfc-frankfurt/blob/master/Vereinsordnungen/1.%20TFC%20Frankfurt%20-%20Vereinsordnung%20-%20Datenschutz.docx?raw=true
+"1. TFC Frankfurt - Vereinsordnung - Gäste":https://github.com/robotex82/tfc-frankfurt/blob/master/Vereinsordnungen/1.%20TFC%20Frankfurt%20-%20Vereinsordnung%20-%20G%C3%A4ste.docx?raw=true
+"1. TFC Frankfurt - Vereinsordnung - Mitgliedsbeiträge":https://github.com/robotex82/tfc-frankfurt/blob/master/Vereinsordnungen/1.%20TFC%20Frankfurt%20-%20Vereinsordnung%20-%20Mitgliedsbeitr%C3%A4ge.docx?raw=true
+"1. TFC Frankfurt - Vereinsordnung - Vereinsjugend":https://github.com/robotex82/tfc-frankfurt/blob/master/Vereinsordnungen/1.%20TFC%20Frankfurt%20-%20Vereinsordnung%20-%20Vereinsjugend.docx?raw=true
+"1. TFC Frankfurt - Vereinsordnung - Vorstand":https://github.com/robotex82/tfc-frankfurt/blob/master/Vereinsordnungen/1.%20TFC%20Frankfurt%20-%20Vereinsordnung%20-%20Vorstand.docx?raw=true
