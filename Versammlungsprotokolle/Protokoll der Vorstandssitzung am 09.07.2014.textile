@@ -2,11 +2,11 @@ h1. Vorstandssitzung  - Protokoll
 
 **Datum:** 09.07.2014 (19:00 Uhr - 20:00 Uhr)
 
-**Ort:** Oberursel, Spectacuum
+**Ort:** Oberursel, Spectaculum
 
 **Versammlungsleiter:** Roberto Vásquez Angel
 
-**Protokollführer:** ??
+**Protokollführer:** Roberto Vásquez Angel
 
 **Anwesende:**
 
@@ -24,8 +24,4 @@ h2. 2. Neuwahl des Kassenwarts
 
 Christoph Korn wird mit 2 Stimmen und 0 Enthaltungen zum Kassenwart gewählt. Er nimmt die Wahl an.
 
-
-h2. 3. Schwerpunkte für 2013/2014
-
-
-h2. 4. Sonstiges
+h2. 3. Sonstiges
