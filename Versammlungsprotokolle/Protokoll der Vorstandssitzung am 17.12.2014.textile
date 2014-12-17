@@ -1,0 +1,32 @@
+h1. Vorstandssitzung  - Protokoll
+
+**Datum:** 17.12.2014 (20:00 Uhr - 21:00 Uhr)
+
+**Ort:** Oberursel, Spectaculum
+
+**Versammlungsleiter:** Roberto Vásquez Angel
+
+**Protokollführer:** Roberto Vásquez Angel
+
+**Anwesende:**
+
+  * Roberto Vasquez Angel
+  * Simon Augenstein
+  * Christoph Korn
+
+
+h2. 1. Begrüßung und Feststellung der Beschlussfähigkeit
+
+Die Beschlussfähigkeit wird festgestellt.
+
+
+h2. 2. Beratung und Beschlussfassung zum Thema "Satzungsänderungen für das Finanzamt"
+
+h2. 3. Sonstiges
+
+  * Strategie -> Standorte
+  * JIRA
+  * Trikots
+  * Mitgliederstand
+  * Homepage
+  * Standortwahl durch Mannschaften?
