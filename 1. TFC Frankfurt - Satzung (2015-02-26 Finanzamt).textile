@@ -44,11 +44,11 @@ h2. § 3 Aufgaben
 (1) Zu den vorrangigen Aufgaben des Vereins gehören insbesondere die:
 
 * Durchführung von Sportwettkämpfen, die Ausbildung von Mitgliedern zur 
-  Teilnahme hieran;   
-* Pflege und Ausbau des Breitensports;
+  Teilnahme hieran
+* Pflege und Ausbau des Breitensports
 * Durchführung von geeigneten Veranstaltungen für Mitglieder und Interessenten
-  zur Förderung des Leistungs- und Breitensports;    
-* Beschaffung, Erhaltung und Pflege von Sportanlagen und Sportgeräten.
+  zur Förderung des Leistungs- und Breitensports
+* Beschaffung, Erhaltung und Pflege von Sportanlagen und Sportgeräten
 
 
 h2. § 4 Mitgliedschaft in den Verbänden
@@ -99,9 +99,9 @@ erfolgt:
 * bei grobem Verstoß gegen die Satzung oder Verbandsrichtlinien,
 * wegen massivem unsportlichen oder unkameradschaftlichen Verhalten,
 * wegen unehrenhaften Verhaltens innerhalb oder außerhalb des
-    Vereinslebens, wenn hierdurch die Interessen und das Ansehen des 
-    Vereins in der Öffentlichkeit oder vereinsintern schwerwiegend
-    beeinträchtigt wird.
+  Vereinslebens, wenn hierdurch die Interessen und das Ansehen des 
+  Vereins in der Öffentlichkeit oder vereinsintern schwerwiegend
+  beeinträchtigt wird.
         
 (8) Über einen Ausschluss entscheidet der Vorstand mit einfacher Mehrheit der
 anwesenden Vorstandsmitglieder, nachdem dem betroffenen Mitglied rechtliches
@@ -232,10 +232,10 @@ Angelegenheiten:
 * Entgegennahme des Jahresberichts des Vorstandes
 * Entlastung des Vorstandes
 * Wahl der Mitglieder des Vorstandes, der Kassenprüfer und weiterer 
-    Ehrenämter gemäß dieser Satzung
+  Ehrenämter gemäß dieser Satzung
 * Ernennung von Ehrenmitgliedern
 * Änderung der Satzung (sofern Änderung Vorstandswahlen betreffen, 
-    werden sie vor den Wahlen durchgeführt)
+  werden sie vor den Wahlen durchgeführt)
 * Erlass von Vereinsordnungen
 * Beschlussfassung über Anträge der Mitglieder
 * Auflösung des Vereins
