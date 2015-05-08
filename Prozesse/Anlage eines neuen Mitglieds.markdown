@@ -1,6 +1,7 @@
 # Anlage eines neuen Mitglieds
 
 Trigger: Eingang einer korrekt ausgefüllten Anmeldung.
+
 Ergebnis: Korrekt eingetragenes Mitglied mit Spielberechtigung beim TFVH.
 
 Prozessschritte:
