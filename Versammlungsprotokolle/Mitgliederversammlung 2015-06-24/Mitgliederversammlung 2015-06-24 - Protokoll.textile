@@ -10,18 +10,19 @@ h1. Mitgliederversammlung - Protokoll
 
 **Anwesende:**
 
-  * Roberto Vásquez-Angel
-  * Sarah-Krisitn Hehner
+  * Sarah Kristin Hehner
+  * Chi Ming Huang
+  * Tom Pfaff
+  * Christian Hansch
   * Robin Hanke
-  * Ellen Reimann
-  * Chrisian Hansch
-  * Chi-Ming Huang
-  * Martina Steinhoff
   * Daniel Raudnitzky
-  * Simon Augenstein
-  * Manfred Forsbach
+  * Lucas Seubert
+  * Daniel Massong
+  * Dominik Mogk
   * Alexander Neugebauer
   * Christoph Korn
+  * Simon Augenstein
+  * Marco Beiler
 
 
 h2. 1. Begrüßung und Feststellung der Beschlussfähigkeit
